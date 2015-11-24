@@ -1,6 +1,7 @@
 # This is a dummy file
 
-THis is content
-	THis is too
+This is content
+	This is too
 	And this..
+	And this.
 
