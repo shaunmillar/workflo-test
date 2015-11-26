@@ -6,3 +6,5 @@ This is content
 	And this.
 
 Hello
+
+This is a change I made in the 'myfeature' branch.
